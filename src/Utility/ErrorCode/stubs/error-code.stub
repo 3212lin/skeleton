@@ -1,0 +1,12 @@
+<?php
+
+declare(strict_types=1);
+
+namespace %NAMESPACE%;
+
+use EasySwoole\Skeleton\Framework\BaseEnum;
+
+class %CLASSNAME% extends BaseEnum
+{
+%CONSTANT%
+}
